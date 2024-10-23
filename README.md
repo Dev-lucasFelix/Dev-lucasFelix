@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="lucasfelix250572@gmail.com" title="Gmail">
+  <a href="mailto:lucasfelix250572@gmail.com?subject=Informações%20sobre%20serviços&body=Olá,%20gostaria%20de%20mais%20informações%20sobre%20vocÊ" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/lucas-felix-de-oliveira-9a4b452b6/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
