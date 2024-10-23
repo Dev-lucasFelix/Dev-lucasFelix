@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Se precisar mais informções porfavor não exite em me contatar, totalmente disposto a LHE ajudar a ME ajudar🤗: ⤵️
+  💌 Se precisar de mais informações porfavor não exite em me contatar, totalmente disposto a LHE ajudar a ME ajudar🤗: ⤵️
 </p>
 
 <p align="left">
