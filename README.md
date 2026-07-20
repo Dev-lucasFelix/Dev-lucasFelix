@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Muito prazer :) , sou totalmente apaixonado pela área Dev, e mesmo ainda sendo um estudante do meio e um adolescente com muita coisa para experienciar, não consigo me ver em outra região do mundo profissional, cada vez que aprendo algo novo minha sede aumenta mais e mais, é um mundo fascinante com livre espaço pra criatividade e sem limites para se expandir. Portanto, sigo na minha caminhada para me torna um otimo profissional, para agregar positivamente a empresa que acreditar em meu potencial e me permitir mostra minhas qualificações  <strong>Dev Front-End</strong>.<br>
-  No presente momento estou concluindo meu ensino médio, conciliando os assuntos acadÊmicos com o estudo da programação.
-</p>
+  💻 Olá! Eu sou o Lucas Félix
+  
+  Muito prazer! Sou desenvolvedor Front-End e completamente apaixonado por tecnologia e inovação. Busco constantemente expandir meus conhecimentos para criar soluções eficientes, unindo criatividade e lógica no desenvolvimento de interfaces impactantes.Atualmente, curso Ciência da Computação, conciliando a base teórica acadêmica com a prática diária de novos conceitos e tecnologias. Meu objetivo é evoluir continuamente como profissional, agregando valor real a projetos desafiadores e equipes de alto desempenho.<strong>Dev Front-End</strong>.<br>
 
 <p align="left">
   🦄 Linguagens: **JavaScript.**
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Se precisar de mais informações porfavor não exite em me contatar, totalmente disposto a LHE ajudar a ME ajudar🤗: ⤵️
+  💌 Se precisar de mais informações porfavor não exite em me contatar: ⤵️
 </p>
 
 <p align="left">
@@ -30,13 +30,3 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-lucasFelix&show_icons=true)
- <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-lucasFelix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
