@@ -1,11 +1,13 @@
-## Ola! me chamo Lucas Felix 👋
+## Olá!👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   💻 Olá! Eu sou o Lucas Félix
   
-  Muito prazer! Sou desenvolvedor Front-End e completamente apaixonado por tecnologia e inovação. Busco constantemente expandir meus conhecimentos para criar soluções eficientes, unindo criatividade e lógica no desenvolvimento de interfaces impactantes.Atualmente, curso Ciência da Computação, conciliando a base teórica acadêmica com a prática diária de novos conceitos e tecnologias. Meu objetivo é evoluir continuamente como profissional, agregando valor real a projetos desafiadores e equipes de alto desempenho.<strong>Dev Front-End</strong>.<br>
+  Muito prazer!🤝 Sou desenvolvedor Front-End e completamente apaixonado por tecnologia e inovação. 
+  Busco constantemente expandir meus conhecimentos para criar soluções eficientes, unindo criatividade e lógica no desenvolvimento de interfaces impactantes.Atualmente, curso Ciência da Computação, conciliando a base teórica acadêmica com a prática diária de novos conceitos e tecnologias. Meu objetivo é evoluir continuamente como profissional <strong>Dev Front-End</strong>.
+  <br>
 
 <p align="left">
   🦄 Linguagens: **JavaScript.**
@@ -16,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Se precisar de mais informações porfavor não exite em me contatar: ⤵️
+  📩 Se precisar de mais informações porfavor não exite em me contatar: ⤵️
 </p>
 
 <p align="left">
